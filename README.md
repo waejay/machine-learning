@@ -14,6 +14,8 @@ Thus, with my increasing interest with A.I. and it's potentials, I've decided to
 
 I find that actually **doing** things helps me learn more than first **studying and learning** it, so I'm using resources such as Pluralsight's videos to allow me to hands-on deal with elementary machine learning problems.
 
+Later on, I want to then learn the algorithms to give myself a better understanding of how they work
+
 
 
 
